@@ -1,5 +1,5 @@
 # think-short-url
-### 短地址生成
+### ThinkPHP 短地址生成 扩展包
 
 ### 安装
 ```
