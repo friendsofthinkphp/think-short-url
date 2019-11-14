@@ -1,4 +1,5 @@
 # think-short-url
+[![Build Status](https://travis-ci.com/xiaodit/think-short-url.svg?branch=master)](https://travis-ci.com/xiaodit/think-short-url)
 ### ThinkPHP 短地址生成 扩展包
 
 ### 安装
